@@ -5,7 +5,8 @@ import { Component } from '@angular/core';
   template: `
     <nav-bar></nav-bar>
     <events-list></events-list>
-  `})
+  `
+})
 export class EventsAppComponent {
   title = 'ng-fundamentals';
 }
